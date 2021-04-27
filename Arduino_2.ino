@@ -14,7 +14,7 @@ void setup()//sirve para definir lo que vas a hacer en el programa
    * sirve para definir el pin 6 como salida
    */
   
-}
+}//HOLAA
 
 void loop()//sirve para almacenar el codigo
 {
